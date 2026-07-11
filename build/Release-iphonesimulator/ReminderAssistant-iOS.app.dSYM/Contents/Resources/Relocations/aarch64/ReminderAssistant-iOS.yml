@@ -1,0 +1,31 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/Release-iphonesimulator/ReminderAssistant-iOS.app/ReminderAssistant-iOS'
+relocations:
+  - { offset: 0x692FC, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS0aB3AppV4bodyQrvgAA11ContentViewVycfU_', symObjAddr: 0x0, symBinAddr: 0x100000F88, symSize: 0x4 }
+  - { offset: 0x693AC, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS0aB3AppVAC7SwiftUI0D0AAWl', symObjAddr: 0x168, symBinAddr: 0x1000010EC, symSize: 0x40 }
+  - { offset: 0x693C0, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS0aB3AppVMa', symObjAddr: 0x1A8, symBinAddr: 0x10000112C, symSize: 0x10 }
+  - { offset: 0x693D4, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS0aB3AppV7SwiftUI0D0AA4BodyAdEP_AD5ScenePWT', symObjAddr: 0x1B8, symBinAddr: 0x10000113C, symSize: 0x10 }
+  - { offset: 0x693E8, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameV2, symObjAddr: 0x1C8, symBinAddr: 0x10000114C, symSize: 0x50 }
+  - { offset: 0x693FC, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewVAC7SwiftUI0E0AAWl', symObjAddr: 0x218, symBinAddr: 0x10000119C, symSize: 0x40 }
+  - { offset: 0x69410, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI11WindowGroupVy21ReminderAssistant_iOS11ContentViewVGACyxGAA5SceneAAWl', symObjAddr: 0x258, symBinAddr: 0x1000011DC, symSize: 0x50 }
+  - { offset: 0x69424, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstractV2, symObjAddr: 0x2A8, symBinAddr: 0x10000122C, symSize: 0x54 }
+  - { offset: 0x69439, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS0aB3AppV4bodyQrvgAA11ContentViewVycfU_', symObjAddr: 0x0, symBinAddr: 0x100000F88, symSize: 0x4 }
+  - { offset: 0x69497, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS0aB3AppV7SwiftUI0D0AadEP4body4BodyQzvgTW', symObjAddr: 0x4, symBinAddr: 0x100000F8C, symSize: 0x12C }
+  - { offset: 0x69521, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x134, symBinAddr: 0x1000010B8, symSize: 0x34 }
+  - { offset: 0x69627, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewVMa', symObjAddr: 0x0, symBinAddr: 0x100001284, symSize: 0x10 }
+  - { offset: 0x6963B, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewV7SwiftUI0E0AA4BodyAdEP_AGWT', symObjAddr: 0x10, symBinAddr: 0x100001294, symSize: 0x10 }
+  - { offset: 0x696C8, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4TextV7StorageOWOe', symObjAddr: 0x668, symBinAddr: 0x10000189C, symSize: 0x10 }
+  - { offset: 0x696DC, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4TextV7StorageOWOy', symObjAddr: 0x6C0, symBinAddr: 0x1000018F4, symSize: 0x10 }
+  - { offset: 0x696F0, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI15ModifiedContentVyAA6VStackVyAA9TupleViewVyACyACyAA5ImageVAA12_FrameLayoutVGAA30_EnvironmentKeyWritingModifierVyAA5ColorVSgGG_AA4TextVtGGAA05_FlexiJ0VGACyxq_GAA0G0A2AA0_RzAA0gN0R_rlWl', symObjAddr: 0x714, symBinAddr: 0x100001948, symSize: 0x78 }
+  - { offset: 0x69704, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI6VStackVyAA9TupleViewVyAA15ModifiedContentVyAGyAA5ImageVAA12_FrameLayoutVGAA30_EnvironmentKeyWritingModifierVyAA5ColorVSgGG_AA4TextVtGGACyxGAA0E0AAWl', symObjAddr: 0x7E0, symBinAddr: 0x1000019C0, symSize: 0x50 }
+  - { offset: 0x6993C, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewV7SwiftUI0E0AadEP05_makeE04view6inputsAD01_E7OutputsVAD11_GraphValueVyxG_AD01_E6InputsVtFZTW', symObjAddr: 0x5A4, symBinAddr: 0x100001828, symSize: 0x4 }
+  - { offset: 0x69958, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewV7SwiftUI0E0AadEP05_makeE4List4view6inputsAD01_eI7OutputsVAD11_GraphValueVyxG_AD01_eI6InputsVtFZTW', symObjAddr: 0x5A8, symBinAddr: 0x10000182C, symSize: 0x4 }
+  - { offset: 0x69974, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewV7SwiftUI0E0AadEP14_viewListCount6inputsSiSgAD01_eiJ6InputsV_tFZTW', symObjAddr: 0x5AC, symBinAddr: 0x100001830, symSize: 0x18 }
+  - { offset: 0x69AA3, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewV4bodyQrvg', symObjAddr: 0x20, symBinAddr: 0x1000012A4, symSize: 0x17C }
+  - { offset: 0x69B64, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewV4bodyQrvg7SwiftUI05TupleE0VyAE0E0PAEE15foregroundColoryQrAE0K0VSgFQOyAiEE5frame5width6height9alignmentQr12CoreGraphics7CGFloatVSg_AuE9AlignmentVtFQOyAE5ImageV_Qo__Qo__AE4TextVtGyXEfU_', symObjAddr: 0x19C, symBinAddr: 0x100001420, symSize: 0x408 }
+  - { offset: 0x69C78, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS11ContentViewV7SwiftUI0E0AadEP4body4BodyQzvgTW', symObjAddr: 0x5C4, symBinAddr: 0x100001848, symSize: 0x4 }
+  - { offset: 0x69D69, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS19ResourceBundleClass33_EFA2C466F5DE12AD43D4D1F58EDE32CBLLCfD', symObjAddr: 0x0, symBinAddr: 0x100001A10, symSize: 0x10 }
+  - { offset: 0x69DAB, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS19ResourceBundleClass33_EFA2C466F5DE12AD43D4D1F58EDE32CBLLCMa', symObjAddr: 0x10, symBinAddr: 0x100001A20, symSize: 0x20 }
+  - { offset: 0x69DC7, size: 0x8, addend: 0x0, symName: '_$s21ReminderAssistant_iOS19ResourceBundleClass33_EFA2C466F5DE12AD43D4D1F58EDE32CBLLCfD', symObjAddr: 0x0, symBinAddr: 0x100001A10, symSize: 0x10 }
+...

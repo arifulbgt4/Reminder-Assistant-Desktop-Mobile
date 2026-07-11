@@ -1,0 +1,12 @@
+{
+  "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/ReminderAssistant/ReminderAssistantApp.swift" : {
+    "abi-baseline-json" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant_iOS.abi.json",
+    "const-values" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant-iOS-primary.swiftconstvalues",
+    "dependencies" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant-iOS-primary.d",
+    "diagnostics" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant-iOS-primary.dia",
+    "objc-header" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant_iOS-Swift.h",
+    "swiftdoc" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant_iOS.swiftdoc",
+    "swiftmodule" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant_iOS.swiftmodule",
+    "swiftsourceinfo" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/x86_64/ReminderAssistant_iOS.swiftsourceinfo"
+  }
+}

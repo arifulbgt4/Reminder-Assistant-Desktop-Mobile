@@ -1,0 +1,16 @@
+{
+  "source": "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/ReminderAssistant/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome User",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 11
+        }
+      }
+    ]
+  },
+  "version": 1
+}

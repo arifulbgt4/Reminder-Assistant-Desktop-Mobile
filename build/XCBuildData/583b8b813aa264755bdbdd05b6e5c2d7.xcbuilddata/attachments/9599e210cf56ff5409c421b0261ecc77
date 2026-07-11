@@ -1,0 +1,26 @@
+{
+  "" : {
+    "const-values" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistant-iOS-primary.swiftconstvalues",
+    "dependencies" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistant-iOS-primary.d",
+    "diagnostics" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistant-iOS-primary.dia",
+    "emit-module-dependencies" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistant-iOS-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistant-iOS-primary-emit-module.dia",
+    "pch" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistant-iOS-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistant-iOS-primary.swiftdeps"
+  },
+  "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/ReminderAssistant/ContentView.swift" : {
+    "index-unit-output-path" : "/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/ReminderAssistant/ReminderAssistantApp.swift" : {
+    "index-unit-output-path" : "/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistantApp.o",
+    "llvm-bc" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistantApp.bc",
+    "object" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/ReminderAssistantApp.o"
+  },
+  "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/arifulbgt4/Documents/Projects/personal/Reminder-Assistant-Desktop-Mobile/build/ReminderAssistant.build/Release-iphonesimulator/ReminderAssistant-iOS.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
